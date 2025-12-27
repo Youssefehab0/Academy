@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile
+    profileName="site48465-WebDeploy"
+    publishMethod="MSDeploy"
+    publishUrl="site48465.siteasp.net"
+    msdeploySite="site48465"
+    userName="site48465"
+    userPWD="2w%C?5ByQz4-"
+    destinationAppUrl="http://academyapi.runasp.net/"
+    />
+</publishData>
